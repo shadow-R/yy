@@ -1,0 +1,16 @@
+{
+  "name": "查询表格",
+  "description": "An auto-generated demo by dumi",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/icons": "5.0.1",
+    "@ant-design/pro-components": "2.4.2",
+    "antd": "5.3.1",
+    "react": "18.2.0",
+    "umi-request": "1.4.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4"
+  }
+}
